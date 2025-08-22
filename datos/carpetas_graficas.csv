@@ -1,0 +1,73 @@
+nombre_sec,total_delitos_primera,total_delitos_segunda,variacion_porcentual,eficiencia,alcaldia
+HUIPULCO-HOSPITALES,63,45,-28.57,0.29,Tlalpan
+TEPEPAN,85,63,-25.88,0.26,Xochimilco
+FUENTE,61,46,-24.59,0.25,Tlalpan
+ESTRELLA,67,51,-23.88,0.24,Iztapalapa
+TICOMAN,58,46,-20.69,0.21,Gustavo A. Madero
+POLANCO-CASTILLO,24,19,-20.83,0.21,Miguel Hidalgo
+TACUBAYA,45,37,-17.78,0.18,Miguel Hidalgo
+BUENAVISTA,57,47,-17.54,0.18,Cuauhtémoc
+NATIVITAS,36,30,-16.67,0.17,Benito Juárez
+GRANJAS,47,39,-17.02,0.17,Iztapalapa
+SAN JERONIMO,46,39,-15.22,0.15,Magdalena Contreras
+OASIS,134,116,-13.43,0.13,Iztapalapa
+SANTA CRUZ,98,87,-11.22,0.11,Iztapalapa
+CONSULADO,36,32,-11.11,0.11,Venustiano Carranza
+MOCTEZUMA,73,65,-10.96,0.11,Venustiano Carranza
+CLAVERIA,70,63,-10.0,0.1,Álvaro Obregón
+PLATEROS,138,126,-8.7,0.09,Álvaro Obregón
+CULHUACAN,75,68,-9.33,0.09,Coyoacán
+COAPA,59,54,-8.47,0.08,Tlalpan
+LA NORIA,60,56,-6.67,0.07,Xochimilco
+QUIROGA,54,50,-7.41,0.07,Gustavo A. Madero
+ALPES,45,42,-6.67,0.07,Álvaro Obregón
+SANTA FE,100,94,-6.0,0.06,Álvaro Obregón
+DINAMO,32,30,-6.25,0.06,Magdalena Contreras
+TLATELOLCO,37,35,-5.41,0.05,Cuauhtémoc
+TEOTONGO,84,80,-4.76,0.05,Iztapalapa
+CUAUTEPEC,55,54,-1.82,0.02,Gustavo A. Madero
+ASTURIAS,58,57,-1.72,0.02,Cuauhtémoc
+ANGEL,48,48,0.0,0.0,Cuauhtémoc
+MERCED-BALBUENA,48,48,0.0,0.0,Venustiano Carranza
+CHAPULTEPEC,4,4,0.0,0.0,Miguel Hidalgo
+XOTEPINGO,85,86,1.18,-0.01,Coyoacán
+IZTACCIHUATL,53,54,1.89,-0.02,Iztacalco
+LA RAZA,29,30,3.45,-0.03,Álvaro Obregón
+ARAGON,58,60,3.45,-0.03,Cuajimalpa
+ZARAGOZA,20,21,5.0,-0.05,Venustiano Carranza
+TEZONCO,121,127,4.96,-0.05,Iztapalapa
+MORELOS,17,18,5.88,-0.06,Cuauhtémoc
+QUETZAL,116,124,6.9,-0.07,Iztapalapa
+TAXQUEÃA,59,63,6.78,-0.07,Coyoacán
+UNIVERSIDAD,71,76,7.04,-0.07,Coyoacán
+CUITLAHUAC,25,27,8.0,-0.08,Álvaro Obregón
+CONGRESO,18,20,11.11,-0.11,Venustiano Carranza
+MIXQUIC,62,69,11.29,-0.11,Tláhuac
+PORTALES,46,51,10.87,-0.11,Benito Juárez
+PRADERA,66,73,10.61,-0.11,Gustavo A. Madero
+HORMIGA,55,61,10.91,-0.11,Álvaro Obregón
+ABASTO-REFORMA,112,125,11.61,-0.12,Iztapalapa
+TACUBA,88,101,14.77,-0.15,Miguel Hidalgo
+TLACOTAL,66,76,15.15,-0.15,Iztacalco
+PANTITLAN,69,80,15.94,-0.16,Iztacalco
+EL YAQUI,12,14,16.67,-0.17,Cuajimalpa
+SAN ANGEL,30,35,16.67,-0.17,Álvaro Obregón
+TEPEYAC,45,53,17.78,-0.18,Gustavo A. Madero
+NAPOLES,34,40,17.65,-0.18,Benito Juárez
+PADIERNA,74,87,17.57,-0.18,Tlalpan
+CUCHILLA,31,37,19.35,-0.19,Gustavo A. Madero
+NARVARTE-ALAMOS,49,60,22.45,-0.22,Benito Juárez
+ROMA,41,51,24.39,-0.24,Cuauhtémoc
+LINDAVISTA,69,88,27.54,-0.28,Gustavo A. Madero
+MILPA ALTA,18,23,27.78,-0.28,Milpa Alta
+ZAPOTITLA,69,89,28.99,-0.29,Tláhuac
+TOPILEJO,67,87,29.85,-0.3,Tlalpan
+COYOACAN,49,64,30.61,-0.31,Coyoacán
+ARENAL,29,40,37.93,-0.38,Venustiano Carranza
+DEL VALLE,28,39,39.29,-0.39,Benito Juárez
+CHURUBUSCO,39,55,41.03,-0.41,Iztapalapa
+CENTRO,26,38,46.15,-0.46,Cuauhtémoc
+ALAMEDA,26,39,50.0,-0.5,Cuauhtémoc
+SOTELO,24,39,62.5,-0.62,Miguel Hidalgo
+TECOMITL,8,14,75.0,-0.75,Milpa Alta
+CUAJIMALPA,8,16,100.0,-1.0,Cuajimalpa
